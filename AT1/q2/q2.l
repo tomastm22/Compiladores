@@ -25,7 +25,7 @@
 
 [0-9]+      { printf("NUMBER %s\n", yytext); }
 \n          { printf("NEWLINE\n"); }
-[ \t]+      /* ignora espaços e tabulações */
+[ \t]+      
 .           { printf("Mystery character %s\n", yytext); }
 
 %%
