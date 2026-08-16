@@ -1,0 +1,10 @@
+tomas@tomas-VirtualBox:~/Compiladores$ cd AT1/q4
+tomas@tomas-VirtualBox:~/Compiladores/AT1/q4$ ./q4
+Erro: Informe o arquivo de entrada. Ex: ./q4 entrada.txt
+tomas@tomas-VirtualBox:~/Compiladores/AT1/q4$ echo $?
+1
+tomas@tomas-VirtualBox:~/Compiladores/AT1/q4$ ./q4 arquivo_que_nao_existe.txt
+Erro: Nao foi possivel abrir o arquivo 'arquivo_que_nao_existe.txt'.
+tomas@tomas-VirtualBox:~/Compiladores/AT1/q4$ echo $?
+2
+tomas@tomas-VirtualBox:~/Compiladores/AT1/q4$ 
