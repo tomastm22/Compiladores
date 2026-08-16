@@ -1,0 +1,6 @@
+linhas: 4
+palavras: 11
+caracteres: 67
+inteiros: 1
+floats: 1
+pontuacoes: 2

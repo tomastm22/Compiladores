@@ -1,0 +1,4 @@
+O valor de pi e 3.14
+Foram comprados 345 itens
+Fim do teste.
+!@#$%
